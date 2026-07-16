@@ -4,9 +4,6 @@ A modern and responsive personal portfolio website built using **HTML**, **CSS**
 
 ## 🌐 Live Demo
 
-## 🌐 Live Demo
-
-
 🔗 https://abhi003cs.github.io/<my portfolio>/
 
 ## 📸 Preview
