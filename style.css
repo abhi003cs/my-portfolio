@@ -349,85 +349,53 @@ body{
 }
 
 .education-card{
-
     width:500px;
-
     background:#11344d;
-
     padding:40px;
-
     border-radius:20px;
-
     text-align:center;
-
     transition:.4s;
-
     border:2px solid transparent;
 
 }
 
 .education-card:hover{
-
     transform:translateY(-10px);
-
     border-color:#0ef;
-
     box-shadow:0 0 20px rgba(0,238,255,.5);
-
 }
 
 .education-card i{
-
     font-size:60px;
-
     color:#0ef;
-
     margin-bottom:20px;
-
 }
 
 .education-card h3{
-
     font-size:32px;
-
     margin-bottom:10px;
-
 }
 
 .education-card h4{
-
     font-size:24px;
-
     margin-bottom:15px;
-
     color:#0ef;
-
 }
 
 .education-card p{
-
     font-size:18px;
-
     margin-bottom:15px;
-
 }
 
 .education-card span{
-
     display:block;
-
     font-size:18px;
-
     color:#d6d6d6;
-
     margin-bottom:15px;
-
 }
 
 .education-card h5{
-
     font-size:22px;
-
     color:#0ef;
 
 }
